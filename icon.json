@@ -3,36 +3,9 @@
   "description": "收集一些自己常用的图标，尺寸为108px/144px",
   "icons": [
     {
-      "name": "10000",
-      "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/10000.png"
-    },
-    {
-      "name": "CloudCone",
-      "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/CloudCone.png"
-    },
-    {
-      "name": "CloudCone_loon",
-      "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/CloudCone_loon.png"
-    },
-    {
-      "name": "THYC",
-      "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/THYC.jpg"
-    },
-    {
-      "name": "QuantumultX",
-      "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/QuantumultX.png"
-    },
-    {
-      "name": "Clash",
-      "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/Clash.png"
-    },
-    {
       "name": "v2rayN",
       "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/v2rayN.png"
-    },
-    {
-      "name": "shadowrocket",
-      "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/shadowrocket.png"
+    }
     }
   ]
 }
