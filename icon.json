@@ -15,10 +15,6 @@
       "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/CloudCone_loon.png"
     },
     {
-      "name": "THYC",
-      "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/THYC.jpg"
-    },
-    {
       "name": "QuantumultX",
       "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/QuantumultX.png"
     },
@@ -33,6 +29,22 @@
     {
       "name": "shadowrocket",
       "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/shadowrocket.png"
+    },
+    {
+      "name": "GlobeOne",
+      "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/GlobeOne.png"
+    },
+    {
+      "name": "giffgaff",
+      "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/giffgaff.png"
+    },
+    {
+      "name": "WYYD",
+      "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/WYYD.png"
+    },
+    {
+      "name": "THYC",
+      "url": "https://raw.githubusercontent.com/Kook-9527/icon/main/THYC.jpg"
     }
   ]
 }
